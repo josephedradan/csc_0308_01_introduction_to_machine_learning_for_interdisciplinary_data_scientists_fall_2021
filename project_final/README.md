@@ -1,0 +1,2 @@
+# Due to the file being big to be seen on GitHub, Click the below link instead.
+##[nbviwer link](https://nbviewer.org/github/josephedradan/csc_0308_01_introduction_to_machine_learning_for_interdisciplinary_data_scientists_fall_2021/blob/main/project_final/csc_308_team_4_project_final_retinal_disease_classifier.ipynb)
